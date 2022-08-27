@@ -5,4 +5,4 @@ Entrada de blog de vencrea.com donde se muestra como diseñar iconos de redes so
 
 [2] Ver Iconos de Redes Sociales en vivo: https://vencrea.github.io/Iconos-RRSS-Font-Awesome/
 
-[3] Ver repositorio de ejemplo en: https://github.com/vencrea/Iconos-RRSS-Font-Awesome.
+[3] Ver repositorio GitHub: https://github.com/vencrea/Iconos-RRSS-Font-Awesome.
